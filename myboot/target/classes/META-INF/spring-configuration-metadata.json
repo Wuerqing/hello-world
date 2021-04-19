@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "url",
+      "type": "com.oak.entity.ConfigParamGet",
+      "sourceType": "com.oak.entity.ConfigParamGet"
+    }
+  ],
+  "properties": [
+    {
+      "name": "url.order-url",
+      "type": "java.lang.String",
+      "sourceType": "com.oak.entity.ConfigParamGet"
+    },
+    {
+      "name": "url.shop-url",
+      "type": "java.lang.String",
+      "sourceType": "com.oak.entity.ConfigParamGet"
+    },
+    {
+      "name": "url.user-url",
+      "type": "java.lang.String",
+      "sourceType": "com.oak.entity.ConfigParamGet"
+    }
+  ],
+  "hints": []
+}
